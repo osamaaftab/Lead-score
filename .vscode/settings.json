@@ -1,0 +1,17 @@
+{
+  "python.pythonPath": "C:\\Users\\hassa\\.virtualenvs\\Salesfoo-ML-7lsN4iGx\\Scripts\\python.exe",
+  "editor.formatOnSave": true,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    ".vscode": true,
+    "**/*.pyc": true
+  },
+  "workbench.editor.enablePreview": false,
+  "editor.minimap.enabled": false,
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"]
+}

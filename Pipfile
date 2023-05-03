@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+pylint-django = "*"
+
+[packages]
+django = "*"
+joblib = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+whitenoise = "*"
+django-rest-swagger = "*"
+drf-yasg = "*"
+pandas = "*"
+scipy = "*"
+numpy = "*"
+djangorestframework-api-key = "==2.*"
+
+[requires]
+python_version = "3.7"
